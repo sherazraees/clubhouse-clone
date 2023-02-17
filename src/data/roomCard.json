@@ -1,0 +1,72 @@
+[
+    {
+        "id": 789,
+        "title": "Titanic",
+        "subTitle": "Nothing on earth could come between them.",
+        "members": [
+          {
+            "firstName": "David",
+            "lastName": "Chang"
+          },
+          {
+            "firstName": "Emily",
+            "lastName": "Nguyen"
+          },
+          {
+            "firstName": "Jake",
+            "lastName": "Kim"
+          },
+          {
+            "firstName": "Lily",
+            "lastName": "Wang"
+          }
+        ]
+      },
+      {
+        "id": 456,
+        "title": "The Dark Knight",
+        "subTitle": "Why so serious?",
+        "members": [
+          {
+            "firstName": "Mike",
+            "lastName": "Johnson"
+          },
+          {
+            "firstName": "Samantha",
+            "lastName": "Lee"
+          },
+          {
+            "firstName": "Tom",
+            "lastName": "Smith"
+          },
+          {
+            "firstName": "Sarah",
+            "lastName": "Davis"
+          }
+        ]
+      },
+      {
+        "id": 123,
+        "title": "The Shawshank Redemption",
+        "subTitle": "Hope is a dangerous thing.",
+        "members": [
+          {
+            "firstName": "John",
+            "lastName": "Doe"
+          },
+          {
+            "firstName": "Jane",
+            "lastName": "Doe"
+          },
+          {
+            "firstName": "Bob",
+            "lastName": "Smith"
+          },
+          {
+            "firstName": "Sara",
+            "lastName": "Jones"
+          }
+        ]
+      }
+
+]
