@@ -13,12 +13,12 @@ body{
   font-size: 1em;
   font-family:"Neutrif Pro";
   height:100vh;
-overflow: hidden;
+/* overflow: hidden; */
 }
 
 .appLayout{
   background-color: #f2f0e4;
-  height: 100vh;
+  height: 100%;
   position: relative;
   width:100%;
   max-width:500px;

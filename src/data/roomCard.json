@@ -3,6 +3,8 @@
         "id": 789,
         "title": "Titanic",
         "subTitle": "Nothing on earth could come between them.",
+        "img1": "https://randomuser.me/api/portraits/men/3.jpg",
+  "img2": "https://randomuser.me/api/portraits/men/4.jpg",
         "members": [
           {
             "firstName": "David",
@@ -26,6 +28,8 @@
         "id": 456,
         "title": "The Dark Knight",
         "subTitle": "Why so serious?",
+        "img1": "https://randomuser.me/api/portraits/men/5.jpg",
+        "img2": "https://randomuser.me/api/portraits/men/6.jpg",
         "members": [
           {
             "firstName": "Mike",
@@ -44,11 +48,14 @@
             "lastName": "Davis"
           }
         ]
-      },
+      }
+      ,
       {
         "id": 123,
         "title": "The Shawshank Redemption",
         "subTitle": "Hope is a dangerous thing.",
+        "img1": "https://randomuser.me/api/portraits/men/7.jpg",
+        "img2": "https://randomuser.me/api/portraits/men/8.jpg",
         "members": [
           {
             "firstName": "John",
